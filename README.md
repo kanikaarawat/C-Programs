@@ -1,6 +1,5 @@
 # C-Programs
 Welcome to the C Code Hub! 🌟
-
 This repository is a treasure trove of C programs, carefully curated to help beginners learn and master the C programming language. Whether you're new to programming or looking to sharpen your C skills, you've come to the right place.
 
 Explore a wide range of programs covering various concepts, from basic syntax and data types to more advanced topics like arrays, pointers, and file handling. Each program is accompanied by detailed explanations and comments, making it easy to understand and learn from the code.
